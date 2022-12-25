@@ -2,11 +2,11 @@
 
 **Se você curtir esse conteúdo, deixa uma STAR aí nesse repo,** porque isso me motiva a trazer mais conteúdos desse gênero.
 
-## React Interview Challenge #03
+## React Interview Challenge #04
 
 E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
 
-Nosso desafio da vez é codar um jogo da velha utilizando somente react.js!
+Nosso desafio da vez é codar um JOGO DA VELHA (tic tac toe) utilizando somente react.js!
 
 Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
@@ -26,4 +26,4 @@ Eu subi uma branch de nome `solution` com a minha resolução do desafio para qu
 
 ## Resolução do desafio
 
-https://youtu.be/ngcH4e2RTUM
+em breve.
