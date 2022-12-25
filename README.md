@@ -26,4 +26,4 @@ Eu subi uma branch de nome `solution` com a minha resolução do desafio para qu
 
 ## Resolução do desafio
 
-em breve.
+https://youtu.be/PVCrq8rBXE4
